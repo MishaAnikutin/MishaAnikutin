@@ -1,8 +1,6 @@
 # Hi there, I'm [Misha](https://t.me/MishaAnikutin)
-🔹 Student of the **RANEPA's Digital Economy Program**
-
-🔹 **Intern researcher** in Gaidar Institute of Applied Economic Research
-
+🔹 Student of the **RANEPA's Digital Economy Program** \\
+🔹 **Intern researcher** in Gaidar Institute of Applied Economic Research \\
 🔹 Creator of tg channel [@AD_olimp](https://t.me/AD_olimp)
 
 # My stack:
