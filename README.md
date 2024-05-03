@@ -1,7 +1,5 @@
 # Hi there, I'm [Misha](https://t.me/MishaAnikutin)
-### 🔹 **RANEPA Digital Economy student**
-🔹 **Intern researcher** in Gaidar Institute of Applied Economic Research
-🔹 Creator of tg channel [@AD_olimp](https://t.me/AD_olimp)
+### 🔹 **RANEPA Digital Economy student** 🔹 **Intern researcher** in Gaidar Institute of Applied Economic Research 🔹 Creator of tg channel [@AD_olimp](https://t.me/AD_olimp)
 
 # My stack:
 - **Python**: FastAPI, Aiogram 3, SQLAlchemy, Alembic, Pydantic
