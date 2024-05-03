@@ -1,5 +1,5 @@
 # Hi there, I'm [Misha](https://t.me/MishaAnikutin)
-### - student of the RANEPA's Digital Economy Program
+### - Student of the RANEPA's Digital Economy Program
 ### - Intern researcher in Gaidar Institute of Applied Economic Research
 
 My stack:
