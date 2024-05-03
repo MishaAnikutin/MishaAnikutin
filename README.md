@@ -9,7 +9,9 @@
 - **Python**: FastAPI, Aiogram 3, SQLAlchemy, Alembic, Pydantic
 - **Data Analyst**: R, pandas, numpy, matplotlib, plotly, scikit-learn
 - **Web**: Docker/Docker-compose, NGINX, Linux, Bash
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishaAnikutin&layout=compact)](https://github.com/MishaAnikutin/github-readme-stats)
+
 # Intrested in:
 - **</> dev:** C, Golang, Scala
 - **🚀 ML/DL:** NLP, Econometrics
