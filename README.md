@@ -10,7 +10,7 @@
 - **Data Analyst**: R, pandas, numpy, matplotlib, plotly, scikit-learn
 - **Web**: Docker/Docker-compose, NGINX, Linux, Bash
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishaAnikutin&hide=Jupyter%Notebook)](https://github.com/MishaAnikutin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishaAnikutin&hide=jupyter_notebook)](https://github.com/MishaAnikutin/github-readme-stats)
 
 # Intrested in:
 - **</> dev:** C, Golang, Scala
