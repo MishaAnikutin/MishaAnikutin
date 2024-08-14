@@ -7,7 +7,7 @@
 
 # My stack:
 - **Python**: FastAPI, Aiogram 3, SQLAlchemy, Alembic, Pydantic
-- **Data Analyst**: R, pandas, numpy, matplotlib, plotly, scikit-learn
+- **Data Analyst**: R, pandas, numpy, plotly, scikit-learn, catboost, xgboost, pytorch
 - **Web**: Docker/Docker-compose, NGINX, Linux, Bash
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishaAnikutin&layout=compact&hide=jupyter%20notebook,makefile,scala,html)](https://github.com/MishaAnikutin/github-readme-stats)
