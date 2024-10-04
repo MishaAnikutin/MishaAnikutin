@@ -7,6 +7,7 @@
 
 # My stack:
 - **Python**: FastAPI, Aiogram 3, SQLAlchemy, Alembic, Pydantic
+- **Web**: ReactJS
 - **Data Analyst**: R, pandas, numpy, plotly, scikit-learn, catboost, xgboost, pytorch
 - **Web**: Docker/Docker-compose, NGINX, Linux, Bash
 
