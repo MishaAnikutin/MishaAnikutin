@@ -16,5 +16,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishaAnikutin&layout=compact&hide=jupyter%20notebook,makefile,scala,html)](https://github.com/MishaAnikutin/github-readme-stats)
 
 # Intrested in:
-- **</> dev:** Haskell, ReScript
+- **</> dev:** Haskell, Rust, FinTech
 - **🚀 ML/DL:** NLP, Econometrics
