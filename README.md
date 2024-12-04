@@ -4,7 +4,7 @@
 - **RANEPA Digital Economy student**
 - **Intern researcher** in Gaidar Institute of Applied Economic Research
 - Creator of tg channel [@AD_olimp](https://t.me/AD_olimp)
-- >>= Functional programming enjoyer
+- Functional programming enjoyer
 
 # My stack:
 - **Python**: FastAPI, SQLAlchemy, Pydantic, PyTest, Dishka, Returns
