@@ -1,7 +1,6 @@
 # Hi there, I'm [Misha](https://t.me/MishaAnikutin)
-### Python ML Engineer
+### Software && ML Engineer
 
-- **RANEPA Digital Economy student**
 - **Intern researcher** in Gaidar Institute of Applied Economic Research
 - Creator of tg channel [@AD_olimp](https://t.me/AD_olimp)
 - Functional programming enjoyer
