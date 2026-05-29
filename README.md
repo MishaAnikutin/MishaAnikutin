@@ -4,7 +4,6 @@
 - **ML developer** of a [cloud ML PaaS](https://data.iep.ru)
 - **Intern researcher** in Gaidar Institute of Applied Economic Research
 - [Co-author of the article](https://ej.hse.ru/article/view/31719)
-- Creator of tg channel [@AD_olimp](https://t.me/AD_olimp)
 
 ## Intrested in:
 - Building news indexes using LLM/Agents
