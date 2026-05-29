@@ -10,6 +10,6 @@
 - Clean architecture, DDD
 - Haskell, Elixir, Clojure, Julia, e.t.c; Working on Python ;(
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishaAnikutin&layout=compact&hide=jupyter%20notebook,makefile,scala,html)](https://github.com/MishaAnikutin/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MishaAnikutin&layout=compact&hide=jupyter%20notebook,makefile,scala,html)](https://github.com/MishaAnikutin/github-readme-stats)
 
 
